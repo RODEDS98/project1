@@ -9,4 +9,11 @@ int main()
 
     return 0;
     // hola :v :v
+    // buscas el main.cpp del codigo
+    // git add main.cpp
+    // git commit -m "COMENTARIO"
+    // git push -u origin master
+
+
+
 }
