@@ -13,7 +13,4 @@ int main()
     // git add main.cpp
     // git commit -m "COMENTARIO"
     // git push -u origin master
-	// por q eres tan mrd csm
-
-
 }
